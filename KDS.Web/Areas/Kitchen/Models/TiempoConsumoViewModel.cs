@@ -10,7 +10,7 @@ namespace KDS.Web.Areas.Kitchen.Models
 {
     public class BandejaTiempoConsumoViewModel
     {
-        //Para filtros de Grupos 
+        //Para filtros de Grupos  
         //No hay definidos de momento
 
         //Para filtros de Sub-Grupos 
